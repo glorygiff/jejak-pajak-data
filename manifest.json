@@ -1,0 +1,15 @@
+{
+ "format": "jejak-manifest-1",
+ "versi": 1,
+ "dibuat": "2026-11-03T01:14:23",
+ "versi_skrip": "0.11.1",
+ "jumlah_aturan": 1930,
+ "jumlah_naskah": 1253,
+ "lengkap": {
+  "file": "lengkap.json.gz",
+  "versi": 1,
+  "ukuran": 5352637,
+  "ukuranMB": 5.1
+ },
+ "pembaruan": []
+}
