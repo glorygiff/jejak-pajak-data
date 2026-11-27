@@ -1,25 +1,17 @@
 {
  "format": "jejak-manifest-1",
- "versi": 41,
- "dibuat": "2026-11-27T08:05:22",
+ "versi": 42,
+ "dibuat": "2026-11-27T11:30:33",
  "versi_skrip": "0.17.22",
- "jumlah_aturan": 2322,
- "jumlah_naskah": 1486,
+ "jumlah_aturan": 2336,
+ "jumlah_naskah": 1539,
  "lengkap": {
   "file": "lengkap.json.gz",
-  "versi": 41,
-  "ukuran": 9096292,
-  "ukuranMB": 8.7
+  "versi": 42,
+  "ukuran": 9754486,
+  "ukuranMB": 9.3
  },
  "pembaruan": [
-  {
-   "versi": 12,
-   "file": "pembaruan/00012.json.gz",
-   "ukuran": 156595,
-   "aturan": 0,
-   "naskah": 0,
-   "dibuat": "2026-11-05T15:16:04"
-  },
   {
    "versi": 13,
    "file": "pembaruan/00013.json.gz",
@@ -251,6 +243,14 @@
    "aturan": 313,
    "naskah": 29,
    "dibuat": "2026-11-27T08:05:22"
+  },
+  {
+   "versi": 42,
+   "file": "pembaruan/00042.json.gz",
+   "ukuran": 892495,
+   "aturan": 432,
+   "naskah": 65,
+   "dibuat": "2026-11-27T11:30:33"
   }
  ]
 }
